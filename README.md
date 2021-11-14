@@ -1,1 +1,5 @@
-# Amass-Passive-Subdomains
+### Amass-Passive-Subdomains
+
+Here I Add domains that i enumerate during my recon process...
+Use httprobe or httpx to confirm whether all domains are alive or not..
+TLD : Apple, Microsoft, Twitter, Netflix, etc... 
